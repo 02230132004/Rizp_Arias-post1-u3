@@ -19,7 +19,7 @@ Implementar una pantalla de listado de tareas aplicando MVVM con ViewModel, Stat
 
 ## Estructura del Proyecto (Arquitectura Limpia / MVVM)
 
-capturas/estructura.jpg
+(capturas/listado-tareas-inicial.png)
 
 ## Capturas de Pantalla (Checkpoints Completados)
 
