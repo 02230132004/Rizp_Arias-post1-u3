@@ -24,14 +24,14 @@ Implementar una pantalla de listado de tareas aplicando MVVM con ViewModel, Stat
 ## Capturas de Pantalla (Checkpoints Completados)
 
 ### Checkpoint 1: Listado inicial de tareas (FakeRepository)
-![Listado de tareas](capturas/CHECKPOINT 1.png)
+![Listado de tareas](capturas/CHECKPOINT1.png).
 
 ### Checkpoint 2: Agregar nueva tarea (botón + StateFlow update)
-![Agregar tarea](capturas/CHECKPOINT 2.png)
+![Agregar tarea](capturas/CHECKPOINT2.png).
 
-![Agregar tarea](capturas/CHECKPOINT 2.1.png)
+![Agregar tarea](capturas/CHECKPOINT2.1.png)
 ### Checkpoint 3: Marcar tarea como completada (checkbox reactivo)
-![Marcar completada](capturas/CHECKPOINT 3.png)
+![Marcar completada](capturas/CHECKPOINT3.png).
 
 
 ## Tecnologías Utilizadas
